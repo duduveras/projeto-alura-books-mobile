@@ -6,4 +6,6 @@ Fiz esse projeto pois participei de um curso na alura sobre responsividade onde 
 | :sparkles: Nome        | **Alura Books Mobile**
 | :label: Tecnologias | JavaScript, HTML, CSS
 | :rocket: URL         | 
+
+
 ![image](https://github.com/duduveras/projeto-alura-books-mobile/assets/126736702/6c9633a0-ca8e-47bb-bb25-7983b1d51f60)
