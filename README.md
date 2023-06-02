@@ -4,7 +4,7 @@ Fiz esse projeto pois participei de um curso na alura sobre responsividade onde 
 | :placard: Descrição |  Projeto    |
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Books Mobile**
-| :label: Tecnologias | JavaScript, HTML, CSS
+| :label: Tecnologias | HTML, CSS
 | :rocket: URL         | 
 
 
